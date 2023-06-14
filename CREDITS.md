@@ -1,5 +1,4 @@
 # Credits
-
 ## Programming
 
 - Abdullah Aly (Bo_DY) - Developed Front user interface
